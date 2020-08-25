@@ -1,0 +1,12 @@
+1. If we add class to it, then it will compile and will give output "small x" once.
+2. It will compile but as it is a infinite loop, the loop runs continuosly and no output will come.
+3. If we add main method to it, then it will compile and gives output and prints "small x" 2 times.
+8. It will print "Hello + name".
+9. It will compile and give Hello and will give an run time error because no arguments are passed in main 
+method and will give array index out of bound exception because we have used args[i] which is args[0] as
+i values is 0, there is no value in args[0] to print so it will give exception.
+10. The output of the following program is
+      For radius = 1.0 , area = 3.14159
+      For radius = 1.5, area = 7.068583
+      For radius = 2.0, area = 12.566370
+13. The output of yhe program is "Everything".
